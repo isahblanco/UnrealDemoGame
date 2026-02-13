@@ -1438,3 +1438,8 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.13-13.32.35:201][172]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
 [2026.02.13-13.32.35:202][172]LogPakFile: Destroying PakPlatformFile
 [2026.02.13-13.32.35:365][172]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 46634.46 ms.
+[2026.02.13-13.32.42:936][172]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 54205.79 ms.
+[2026.02.13-13.32.43:381][172]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 54650.11 ms.
+[2026.02.13-13.32.44:052][172]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.02.13-13.32.44:143][172]LogExit: Exiting.
+[2026.02.13-13.32.44:158][172]Log file closed, 02/13/26 14:32:44
